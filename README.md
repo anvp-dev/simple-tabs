@@ -1,5 +1,5 @@
 # simple-tabs
-
+```
 <div id="tab">
   <button class="active" data-tab-btn>1</button>
   <button data-tab-btn>2</button>
@@ -8,3 +8,4 @@
   <div data-tab-content>conetnt: 2</div>
   <div data-tab-content>conetnt: 3</div>
 </div>
+```
