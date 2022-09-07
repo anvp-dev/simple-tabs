@@ -9,3 +9,13 @@
   <div data-tab-content>conetnt: 3</div>
 </div>
 ```
+
+### CSS
+```
+[data-tab-content] {
+    display: none;
+}
+.active[data-tab-content] {
+    display: block;
+}
+```
